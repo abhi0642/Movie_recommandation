@@ -1,2 +1,2 @@
 # Movie_recommandation
-I uses content based and collaborative filtering to recommend movie 
+I have used content based and collaborative filtering to recommend movie 
